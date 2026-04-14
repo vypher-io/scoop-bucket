@@ -1,12 +1,12 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vypher-io/cli/releases/download/v0.0.5/vypher_0.0.5_windows_amd64.zip",
+            "url": "https://github.com/vypher-io/cli/releases/download/v0.0.6/vypher_0.0.6_windows_amd64.zip",
             "bin": [
                 "vypher.exe"
             ],
-            "hash": "a2a58c320a86ff62cecaa4223ae225091d1b1125a02ec2722dcc0c5f55141e48"
+            "hash": "7a86d4be37b5fd7d5d0b97f81ca8148c5c63a94024208cca6dfd2ef2eaa4209c"
         }
     },
     "homepage": "https://github.com/vypher-io/cli",
